@@ -1,0 +1,4 @@
+Var is a keyword used to declare variables in javascript while
+Scope refers to the context to which a variable is used i.e
+a variable can be accessed with a function only(local scope) or 
+a variable can be accessed both outside and within a function( global scope)
