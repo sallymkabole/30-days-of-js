@@ -6,6 +6,9 @@ Weekend Challenge
 
 */
 
+var quote=`"You miss 100% of the shots you don’t take. –Wayne Gretzky'"`
+console.log(quote)
+
 var favoriteSong = "Floating though space by Sia";
 var wordCount = favoriteSong.match(/(\w+)/g).length;
 console.log(favoriteSong  + ' ' +'has'  + ' ' +wordCount  + ' ' + 'words'); //6
