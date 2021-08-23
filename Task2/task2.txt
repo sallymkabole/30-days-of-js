@@ -1,0 +1,6 @@
+NULL is a value that can be assigned to a variable while
+UNDEFINED is a variable without a valu eg let fav_series;
+
+
+NaN is a property that represents not a number value( illegal number )
+typeof NaN is number since it is  numeric type but the value cannot be represented within the limitations of the numeric type
