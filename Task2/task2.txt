@@ -4,3 +4,6 @@ UNDEFINED is a variable without a valu eg let fav_series;
 
 NaN is a property that represents not a number value( illegal number )
 typeof NaN is number since it is  numeric type but the value cannot be represented within the limitations of the numeric type
+
+ You can declare a variable by typing let name;. What is the value of name?
+ name is undefined
